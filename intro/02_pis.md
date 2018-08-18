@@ -1,4 +1,4 @@
-<!SLIDE bullets>
+<!SLIDE>
 # Why Pis?
 
 * Cheap - $35/piece
