@@ -1,8 +1,10 @@
 {
   "name": "Running a Kubernetes cluster at home with Raspberry Pis",
   "sections": [
-    {
-      "section": "intro"
-    }
+    { "section": "intro" },
+    { "section": "flashing" },
+    { "section": "ansible" },
+    { "section": "kubeadm" },
+    { "section": "Kubernetes" },
   ]
 }
