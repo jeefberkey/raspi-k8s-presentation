@@ -14,13 +14,13 @@
       router
       internet
 
-      internet -.- router
+      internet =.= router
       subgraph NAT
-        router --- switch
-        router --- AP
-        switch --- raspi1
-        switch --- raspi2
-        switch --- raspi3
-        switch --- raspi4
-        switch --- raspi5
+        router === switch
+        router === AP
+        switch === raspi1
+        switch === raspi2
+        switch === raspi3
+        switch === raspi4
+        switch === raspi5
       end
