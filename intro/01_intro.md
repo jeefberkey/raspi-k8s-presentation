@@ -1,8 +1,7 @@
 <!SLIDE subsection>
 # Nick Miller
 
-* Puppet Developer
+* Heavy Puppet user
 * Linux user for years
-* Not good at Kubernetes or Ansible
-
-### Please ask me a lot of questions
+* New to Kubernetes and Ansible
+* Please ask me a lot of questions

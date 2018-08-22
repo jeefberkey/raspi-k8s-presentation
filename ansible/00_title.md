@@ -1,3 +1,4 @@
-<!SLIDE center subsection>
-
-# Ansible
+<!SLIDE center>
+<div style="font-weight:bold; font-size:500%; text-align:center;">
+Ansible
+</div>

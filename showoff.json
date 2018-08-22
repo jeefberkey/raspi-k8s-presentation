@@ -1,5 +1,7 @@
 {
   "name": "Running a Kubernetes cluster at home with Raspberry Pis",
+  "description": "My experience setting a hobby grade kubernetes cluster",
+  "favicon": "file/_images/favicon.ico",
   "sections": [
     { "section": "intro" },
     { "section": "flashing" },
