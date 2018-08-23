@@ -14,7 +14,7 @@
       router
       internet
 
-      internet =.= router
+      internet -.- router
       subgraph NAT
         router === switch
         router === AP
