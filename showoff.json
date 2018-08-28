@@ -7,6 +7,7 @@
     { "section": "flashing" },
     { "section": "ansible" },
     { "section": "kubeadm" },
-    { "section": "kubernetes" }
+    { "section": "kubernetes" },
+    { "section": "closing" }
   ]
 }
